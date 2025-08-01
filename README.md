@@ -13,5 +13,5 @@ This repository contains my updated resume for web development roles.
 
 💼 Contact:
 - Email: prince@example.com
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- GitHub: [github.com/yourusername](https://github.com/PrajapatiPrince2005)
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/prince-prajapati-b5ba1a344/)
