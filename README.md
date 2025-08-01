@@ -9,7 +9,7 @@ This repository contains my updated resume for web development roles.
 - **Education**: BCA (Completed in 2025)
 - **Projects**: SportHub, Billing System, Smart Health Care
 
-📄 [Download Resume](Prince_Prajapati_Resume_2025.pdf)
+📄 [Download Resume](https://drive.google.com/file/d/1zJ1yGVc_vnccbcUhXnScASN54HZ-hUUl/view?usp=drivesdk )
 
 💼 Contact:
 - Email: prajapatip.j330@gmail.com
