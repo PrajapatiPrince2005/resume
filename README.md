@@ -11,7 +11,11 @@ This repository contains my updated resume for web development roles.
 
 📄 [Download Resume](https://drive.google.com/file/d/1zJ1yGVc_vnccbcUhXnScASN54HZ-hUUl/view?usp=drivesdk )
 
+"More information available on my resume. 
+📄✨" (https://vtptabletennis3.wixsite.com/princeprajapatimm,m,,,,)
+
 💼 Contact:
 - Email: prajapatip.j330@gmail.com
 - GitHub: [github.com/PrajapatiPrince](https://github.com/PrajapatiPrince2005)
 - LinkedIn: [linkedin.com/in/PrajapatiPrince](https://www.linkedin.com/in/prince-prajapati-b5ba1a344/)
+- 
