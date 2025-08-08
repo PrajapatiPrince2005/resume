@@ -17,4 +17,4 @@ This repository contains my updated resume for web development roles.
 - Email: prajapatip.j330@gmail.com
 - GitHub: [github.com/PrajapatiPrince](https://github.com/PrajapatiPrince2005)
 - LinkedIn: [linkedin.com/in/PrajapatiPrince](https://www.linkedin.com/in/prince-prajapati-b5ba1a344/)
-- 
+- Instagram:[Instagram/PrajapatiPrince](https://www.instagram.com/prince___31___?igsh=YWZsNWozdmliMTgw)
